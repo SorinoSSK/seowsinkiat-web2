@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc6eb72d.css",
-    "main.js": "/static/js/main.c0bc7b3f.js",
+    "main.css": "/static/css/main.c2697e80.css",
+    "main.js": "/static/js/main.be118971.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/sorinosk1.png": "/static/media/sorinosk1.1e52162819d163632657.png",
     "static/media/Itim-Regular.ttf": "/static/media/Itim-Regular.38b1e6579a4ae98f4318.ttf",
     "static/media/profileImg.jpg": "/static/media/profileImg.2d62d68caf32ea02febb.jpg",
     "static/media/VarelaRound-Regular.ttf": "/static/media/VarelaRound-Regular.e67ccd4a92677fdf8719.ttf",
+    "static/media/NpccLogo.jpg": "/static/media/NpccLogo.08f20d0af05d865d2db8.jpg",
+    "static/media/tpLogo.png": "/static/media/tpLogo.810111a6b9fc87a495ad.png",
     "static/media/Righteous-Regular.ttf": "/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
     "static/media/Viga-Regular.ttf": "/static/media/Viga-Regular.bbfc6c11ed52e7e82c92.ttf",
+    "static/media/sutd.png": "/static/media/sutd.64ab6797d34fd47dc57f.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.dc6eb72d.css.map": "/static/css/main.dc6eb72d.css.map",
-    "main.c0bc7b3f.js.map": "/static/js/main.c0bc7b3f.js.map",
+    "main.c2697e80.css.map": "/static/css/main.c2697e80.css.map",
+    "main.be118971.js.map": "/static/js/main.be118971.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc6eb72d.css",
-    "static/js/main.c0bc7b3f.js"
+    "static/css/main.c2697e80.css",
+    "static/js/main.be118971.js"
   ]
 }
