@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8965c05.css",
+    "main.css": "/static/css/main.a38b420d.css",
     "main.js": "/static/js/main.78fd5d63.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/QuantumCrypto.jpg": "/static/media/QuantumCrypto.5273c0fe5f92ea3fcaaa.jpg",
@@ -58,12 +58,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.e8965c05.css.map": "/static/css/main.e8965c05.css.map",
+    "main.a38b420d.css.map": "/static/css/main.a38b420d.css.map",
     "main.78fd5d63.js.map": "/static/js/main.78fd5d63.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8965c05.css",
+    "static/css/main.a38b420d.css",
     "static/js/main.78fd5d63.js"
   ]
 }
