@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d236b782.css",
-    "main.js": "/static/js/main.18eb59fe.js",
+    "main.css": "/static/css/main.e8965c05.css",
+    "main.js": "/static/js/main.78fd5d63.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/QuantumCrypto.jpg": "/static/media/QuantumCrypto.5273c0fe5f92ea3fcaaa.jpg",
     "static/media/sorinosk1.png": "/static/media/sorinosk1.1e52162819d163632657.png",
     "static/media/Apologies_img.png": "/static/media/Apologies_img.dbfffb7b8d4016d300c9.png",
     "static/media/lv.png": "/static/media/lv.78483bbc15749b98b15c.png",
@@ -10,15 +11,24 @@
     "static/media/js.png": "/static/media/js.d2b8d53b5c52705896b0.png",
     "static/media/mysql.png": "/static/media/mysql.39d3e028a1fe1be30884.png",
     "static/media/lnx.png": "/static/media/lnx.5f4dc6d94aad167165fe.png",
+    "static/media/Shelf.jpg": "/static/media/Shelf.a73c98501e5465911ebd.jpg",
     "static/media/esc.png": "/static/media/esc.b0a5e445b586791650b3.png",
+    "static/media/VendingMachine1.jpg": "/static/media/VendingMachine1.cfc6507479d826db2027.jpg",
+    "static/media/Ventilator.jpg": "/static/media/Ventilator.212e77e22875602de02c.jpg",
     "static/media/as.png": "/static/media/as.fa596580d71afd9b20aa.png",
     "static/media/python.png": "/static/media/python.db85dd3cdc1104193955.png",
+    "static/media/3DPrinter.jpg": "/static/media/3DPrinter.52b9e09bf2325b52aed2.jpg",
+    "static/media/Suspension.jpg": "/static/media/Suspension.f2c06af780b81dfa6518.jpg",
     "static/media/vs.png": "/static/media/vs.64320092059302fe49d9.png",
     "static/media/Java.png": "/static/media/Java.5ffab54b19a8621bafd4.png",
+    "static/media/VendingMachine2.jpg": "/static/media/VendingMachine2.361fb3215dfba2014d1d.jpg",
     "static/media/sqlplus.png": "/static/media/sqlplus.532790aed77c52529b72.png",
     "static/media/matlab.png": "/static/media/matlab.ae3c1b6a445224100995.png",
+    "static/media/ninjump.jpg": "/static/media/ninjump.13e4e962ec4deb81834a.jpg",
     "static/media/profileImg.jpg": "/static/media/profileImg.2d62d68caf32ea02febb.jpg",
     "static/media/VarelaRound-Regular.ttf": "/static/media/VarelaRound-Regular.e67ccd4a92677fdf8719.ttf",
+    "static/media/RoboticArm.jpg": "/static/media/RoboticArm.602e9c73be733b57578c.jpg",
+    "static/media/HeatTesting.jpg": "/static/media/HeatTesting.4dba254068a08865daaa.jpg",
     "static/media/rhino.png": "/static/media/rhino.3ed6904ff744cfa40a0d.png",
     "static/media/NpccLogo.jpg": "/static/media/NpccLogo.08f20d0af05d865d2db8.jpg",
     "static/media/C.png": "/static/media/C.543891fc3762d832c518.png",
@@ -48,12 +58,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.d236b782.css.map": "/static/css/main.d236b782.css.map",
-    "main.18eb59fe.js.map": "/static/js/main.18eb59fe.js.map",
+    "main.e8965c05.css.map": "/static/css/main.e8965c05.css.map",
+    "main.78fd5d63.js.map": "/static/js/main.78fd5d63.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d236b782.css",
-    "static/js/main.18eb59fe.js"
+    "static/css/main.e8965c05.css",
+    "static/js/main.78fd5d63.js"
   ]
 }
