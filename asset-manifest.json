@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d86f73c1.css",
-    "main.js": "/static/js/main.fd5fad2c.js",
+    "main.css": "/static/css/main.afb380f2.css",
+    "main.js": "/static/js/main.5df046d6.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/QuantumCrypto.jpg": "/static/media/QuantumCrypto.5273c0fe5f92ea3fcaaa.jpg",
     "static/media/sorinosk1.png": "/static/media/sorinosk1.1e52162819d163632657.png",
@@ -42,6 +42,7 @@
     "static/media/xml.png": "/static/media/xml.bdfe8db21392db8a8b69.png",
     "static/media/sqlite.png": "/static/media/sqlite.2c363acf71c883f900f6.png",
     "static/media/jpy.png": "/static/media/jpy.67d3dfc7b9dd79cacd46.png",
+    "static/media/AppIcon.png": "/static/media/AppIcon.a3ac326b72eb5e1480fe.png",
     "static/media/Eagle.png": "/static/media/Eagle.5484027013b1962838d6.png",
     "static/media/cst.png": "/static/media/cst.b15b19513c70f4c549f5.png",
     "static/media/Viga-Regular.ttf": "/static/media/Viga-Regular.bbfc6c11ed52e7e82c92.ttf",
@@ -59,12 +60,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.d86f73c1.css.map": "/static/css/main.d86f73c1.css.map",
-    "main.fd5fad2c.js.map": "/static/js/main.fd5fad2c.js.map",
+    "main.afb380f2.css.map": "/static/css/main.afb380f2.css.map",
+    "main.5df046d6.js.map": "/static/js/main.5df046d6.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d86f73c1.css",
-    "static/js/main.fd5fad2c.js"
+    "static/css/main.afb380f2.css",
+    "static/js/main.5df046d6.js"
   ]
 }
