@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ffca6a1.css",
-    "main.js": "/static/js/main.aa7966ed.js",
+    "main.css": "/static/css/main.75b1de23.css",
+    "main.js": "/static/js/main.f37cd4eb.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/QuantumCrypto.jpg": "/static/media/QuantumCrypto.5273c0fe5f92ea3fcaaa.jpg",
     "static/media/sorinosk1.png": "/static/media/sorinosk1.1e52162819d163632657.png",
@@ -64,12 +64,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.5ffca6a1.css.map": "/static/css/main.5ffca6a1.css.map",
-    "main.aa7966ed.js.map": "/static/js/main.aa7966ed.js.map",
+    "main.75b1de23.css.map": "/static/css/main.75b1de23.css.map",
+    "main.f37cd4eb.js.map": "/static/js/main.f37cd4eb.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ffca6a1.css",
-    "static/js/main.aa7966ed.js"
+    "static/css/main.75b1de23.css",
+    "static/js/main.f37cd4eb.js"
   ]
 }
