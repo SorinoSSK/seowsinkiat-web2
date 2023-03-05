@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ff8f6ef.css",
-    "main.js": "/static/js/main.f54915a1.js",
+    "main.css": "/static/css/main.5ffca6a1.css",
+    "main.js": "/static/js/main.aa7966ed.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/QuantumCrypto.jpg": "/static/media/QuantumCrypto.5273c0fe5f92ea3fcaaa.jpg",
     "static/media/sorinosk1.png": "/static/media/sorinosk1.1e52162819d163632657.png",
     "static/media/LHImg.png": "/static/media/LHImg.4ccf188546d1e7efb722.png",
     "static/media/Apologies_img.png": "/static/media/Apologies_img.dbfffb7b8d4016d300c9.png",
     "static/media/lv.png": "/static/media/lv.78483bbc15749b98b15c.png",
+    "static/media/QuantumCrypto.png": "/static/media/QuantumCrypto.455aeeacf93c72d9e2b7.png",
     "static/media/Itim-Regular.ttf": "/static/media/Itim-Regular.38b1e6579a4ae98f4318.ttf",
     "static/media/js.png": "/static/media/js.d2b8d53b5c52705896b0.png",
     "static/media/mysql.png": "/static/media/mysql.39d3e028a1fe1be30884.png",
@@ -33,6 +34,7 @@
     "static/media/rhino.png": "/static/media/rhino.3ed6904ff744cfa40a0d.png",
     "static/media/NpccLogo.jpg": "/static/media/NpccLogo.08f20d0af05d865d2db8.jpg",
     "static/media/C.png": "/static/media/C.543891fc3762d832c518.png",
+    "static/media/Vertuoso.png": "/static/media/Vertuoso.47201ca8804f8261447b.png",
     "static/media/aspNet.png": "/static/media/aspNet.7dc656b179bd2b5020fe.png",
     "static/media/tpLogo.png": "/static/media/tpLogo.810111a6b9fc87a495ad.png",
     "static/media/cSharp.png": "/static/media/cSharp.fc3824f7605cbde639f0.png",
@@ -47,6 +49,8 @@
     "static/media/cst.png": "/static/media/cst.b15b19513c70f4c549f5.png",
     "static/media/Viga-Regular.ttf": "/static/media/Viga-Regular.bbfc6c11ed52e7e82c92.ttf",
     "static/media/nb.png": "/static/media/nb.f731063f931dd192a4a5.png",
+    "static/media/Stitch.png": "/static/media/Stitch.e9310cba9f2fd15cf387.png",
+    "static/media/beige-paper.png": "/static/media/beige-paper.ea4127ea011aae24782c.png",
     "static/media/html.png": "/static/media/html.8ccd161a9690a50c2759.png",
     "static/media/ai.png": "/static/media/ai.3caab1f3bc1c6c32a4e8.png",
     "static/media/latex.png": "/static/media/latex.e15ac940a1c743a32d62.png",
@@ -60,12 +64,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.8ff8f6ef.css.map": "/static/css/main.8ff8f6ef.css.map",
-    "main.f54915a1.js.map": "/static/js/main.f54915a1.js.map",
+    "main.5ffca6a1.css.map": "/static/css/main.5ffca6a1.css.map",
+    "main.aa7966ed.js.map": "/static/js/main.aa7966ed.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ff8f6ef.css",
-    "static/js/main.f54915a1.js"
+    "static/css/main.5ffca6a1.css",
+    "static/js/main.aa7966ed.js"
   ]
 }
